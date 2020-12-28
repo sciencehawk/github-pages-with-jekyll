@@ -1,1 +1,2 @@
-This is my first blog
+title: "First blog"
+date: 2020-12-28
